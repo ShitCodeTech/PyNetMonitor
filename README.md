@@ -4,8 +4,6 @@
 python3 --version
 pip3 --version
 
-Установите необходимые зависимости, используя команду:
-
 Установите зависимости, выполнив команду:
 
 pip install -r requirements.txt
